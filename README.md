@@ -16,4 +16,33 @@
 	style="float: margin-right: 10px;" />
 </p>
 
+
+<p align="center">
+<img src="Images/2.png"
+        alt="Segunda"
+        style="float: margin-right: 10px;" />
+</p>
+
+
+<p align="center">
+<img src="Images/3.png"
+        alt="Tercera"
+        style="float: margin-right: 10px;" />
+</p>
+
+
+<p align="center">
+<img src="Images/4.png"
+        alt="Cuarta"
+        style="float: margin-right: 10px;" />
+</p>
+
+<p align="center">
+<img src="Images/5.png"
+        alt="Quinta"
+        style="float: margin-right: 10px;" />
+</p>
+
+
+
 3- Agregar las VM a la Red Nat Interna
