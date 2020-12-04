@@ -1,4 +1,4 @@
-# Empire-Lab-Setup
+#Taller Empire-Lab-Setup PwnedCR0x3
 
 ## Materiales:
 * VirtualBox
