@@ -3,7 +3,7 @@
 ## Materiales:
 * VirtualBox (https://www.virtualbox.org/)
 * VM Kali / VM Parrot (https://www.kali.org/downloads/) (https://www.parrotsec.org/download/)
-* VM W10 
+* VM W10 (https://drive.google.com/drive/folders/1FYOm9iWB8b7XaeGldPBP1tSrhV9xsaiC?usp=sharing)
 
 ## Instrucciones de configuración del Laboratorio:
 * 1- Importar la VM W10 a Virtualbox.
