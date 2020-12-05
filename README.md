@@ -1,8 +1,8 @@
 # Lab-Setup Empire Pwnedcr 0x3
 
 ## Materiales:
-* [VirtualBox] (https://www.virtualbox.org/)
-* VM Kali / VM Parrot
+* VirtualBox (https://www.virtualbox.org/)
+* VM Kali / VM Parrot (https://www.kali.org/downloads/) (https://www.parrotsec.org/download/)
 * VM W10 
 
 ## Instrucciones de configuración del Laboratorio:
