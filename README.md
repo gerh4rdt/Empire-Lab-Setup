@@ -7,7 +7,24 @@
 
 ## Instrucciones de configuración del Laboratorio:
 
-### 1- Exportar la VM W10 a Virtualbox.
+### 1- Importar la VM W10 a Virtualbox.
+
+<p align="center">
+<img src="Images/15.png"
+</p>
+  
+  <p align="center">
+<img src="Images/16.png"
+</p>
+  
+  <p align="center">
+<img src="Images/17.png"
+</p>
+  
+
+
+
+
 
 ### 2-Crear Red Nat Interna para aislar el laboratorio.
 <p align="center">
@@ -23,6 +40,8 @@
 <p align="center">
 <img src="Images/3.png"        
 </p>
+
+
 
 
 
